@@ -1,0 +1,37 @@
+.text-js {
+  opacity: 0;
+}
+
+.cursor {
+  display: block;
+  position: absolute;
+  height: 51px;
+  right: -15px;
+  width: 4px;
+  background-color: #00a8ff;
+  z-index: 1;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-animation: flash 0.5s none infinite alternate;
+  animation: flash 0.5s none infinite alternate;
+}
+
+@-webkit-keyframes flash {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes flash {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
