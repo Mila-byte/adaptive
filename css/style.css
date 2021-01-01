@@ -43,10 +43,9 @@
     content: '';
     position: absolute;
     background: radial-gradient(at top right, #364169, rgba(28, 36, 65, .95));
-    top: 0;
-    bottom: 0;
     width: 100%;
     left: 0;
+    height: 100%;
 }
 
 
