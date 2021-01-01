@@ -85,6 +85,9 @@
     padding-right: 30px;
 }
 
+.text-js{
+ opacity: 1;   
+}
 h1 {
     color: #fff;
     font-family: 'proxima_novaBold';
