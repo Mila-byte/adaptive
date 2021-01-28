@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2df1f72-41d6-431e-b9ec-9c949e0db0d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/adaptive.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
       <workItem from="1609523826806" duration="3079000" />
       <workItem from="1609584637017" duration="30000" />
       <workItem from="1610911816992" duration="12000" />
-      <workItem from="1611861651469" duration="43000" />
+      <workItem from="1611861651469" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="delete typing text">
       <created>1609525453803</created>
@@ -50,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609525453803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change background">
+      <created>1611861752640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611861752640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete typing text" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete typing text" />
+    <MESSAGE value="change background" />
+    <option name="LAST_COMMIT_MESSAGE" value="change background" />
   </component>
 </project>
