@@ -34,23 +34,10 @@
     font-style: normal;
 }
 
-.top-background {
-    background: url(../images/foots.png);
+.container-fluid.top-background {
+    background: radial-gradient(at top right, #364169, rgba(28, 36, 65, .90)), url(../images/foots.png);
     position: relative;
 }
-
-.top-background::before {
-    content: '';
-    position: fixed;
-    background: radial-gradient(at top right, #364169, rgba(28, 36, 65, .95));
-    width: 100%;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    height: 100%;
-}
-
 
 .mainMenu a {
     color: #fff;
