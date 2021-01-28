@@ -41,7 +41,7 @@
 
 .top-background::before {
     content: '';
-    position: absolute;
+    position: fixed;
     background: radial-gradient(at top right, #364169, rgba(28, 36, 65, .95));
     width: 100%;
     left: 0;
